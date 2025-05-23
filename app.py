@@ -62,4 +62,6 @@ def actualizar_graficos(año, region, categoria):
     return fig_linea, fig_top5, fig_pie
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    import os
+    port = int(os.environ.get("PORT", 8050))
+    app.run_server(host="0.0.0.0", port=port)
