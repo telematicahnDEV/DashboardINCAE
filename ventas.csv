@@ -1,0 +1,649 @@
+Año,Mes,Región,Categoría,Producto,Ventas
+2022,Enero,Europa,Computadoras,Laptop X,9493
+2022,Enero,Europa,Computadoras,Laptop Y,11697
+2022,Enero,Europa,Computadoras,Laptop Z,14135
+2022,Enero,Europa,Smartphones,Phone A,14021
+2022,Enero,Europa,Smartphones,Phone B,20516
+2022,Enero,Europa,Smartphones,Phone C,7194
+2022,Enero,Europa,Accesorios,Mouse,12302
+2022,Enero,Europa,Accesorios,Teclado,22847
+2022,Enero,Europa,Accesorios,Audífonos,11743
+2022,Enero,América,Computadoras,Laptop X,20076
+2022,Enero,América,Computadoras,Laptop Y,21768
+2022,Enero,América,Computadoras,Laptop Z,21775
+2022,Enero,América,Smartphones,Phone A,11184
+2022,Enero,América,Smartphones,Phone B,18060
+2022,Enero,América,Smartphones,Phone C,14661
+2022,Enero,América,Accesorios,Mouse,8987
+2022,Enero,América,Accesorios,Teclado,20279
+2022,Enero,América,Accesorios,Audífonos,17185
+2022,Enero,Asia,Computadoras,Laptop X,6458
+2022,Enero,Asia,Computadoras,Laptop Y,13492
+2022,Enero,Asia,Computadoras,Laptop Z,24969
+2022,Enero,Asia,Smartphones,Phone A,11306
+2022,Enero,Asia,Smartphones,Phone B,11150
+2022,Enero,Asia,Smartphones,Phone C,11717
+2022,Enero,Asia,Accesorios,Mouse,18500
+2022,Enero,Asia,Accesorios,Teclado,18895
+2022,Enero,Asia,Accesorios,Audífonos,23834
+2022,Febrero,Europa,Computadoras,Laptop X,22838
+2022,Febrero,Europa,Computadoras,Laptop Y,7085
+2022,Febrero,Europa,Computadoras,Laptop Z,23583
+2022,Febrero,Europa,Smartphones,Phone A,15861
+2022,Febrero,Europa,Smartphones,Phone B,20885
+2022,Febrero,Europa,Smartphones,Phone C,10025
+2022,Febrero,Europa,Accesorios,Mouse,11020
+2022,Febrero,Europa,Accesorios,Teclado,19596
+2022,Febrero,Europa,Accesorios,Audífonos,8383
+2022,Febrero,América,Computadoras,Laptop X,13448
+2022,Febrero,América,Computadoras,Laptop Y,7036
+2022,Febrero,América,Computadoras,Laptop Z,22720
+2022,Febrero,América,Smartphones,Phone A,5997
+2022,Febrero,América,Smartphones,Phone B,8687
+2022,Febrero,América,Smartphones,Phone C,10752
+2022,Febrero,América,Accesorios,Mouse,11643
+2022,Febrero,América,Accesorios,Teclado,22415
+2022,Febrero,América,Accesorios,Audífonos,23915
+2022,Febrero,Asia,Computadoras,Laptop X,21055
+2022,Febrero,Asia,Computadoras,Laptop Y,17337
+2022,Febrero,Asia,Computadoras,Laptop Z,7622
+2022,Febrero,Asia,Smartphones,Phone A,20280
+2022,Febrero,Asia,Smartphones,Phone B,6755
+2022,Febrero,Asia,Smartphones,Phone C,16011
+2022,Febrero,Asia,Accesorios,Mouse,18617
+2022,Febrero,Asia,Accesorios,Teclado,14925
+2022,Febrero,Asia,Accesorios,Audífonos,8270
+2022,Marzo,Europa,Computadoras,Laptop X,10869
+2022,Marzo,Europa,Computadoras,Laptop Y,20188
+2022,Marzo,Europa,Computadoras,Laptop Z,11268
+2022,Marzo,Europa,Smartphones,Phone A,16309
+2022,Marzo,Europa,Smartphones,Phone B,7499
+2022,Marzo,Europa,Smartphones,Phone C,13920
+2022,Marzo,Europa,Accesorios,Mouse,13061
+2022,Marzo,Europa,Accesorios,Teclado,5703
+2022,Marzo,Europa,Accesorios,Audífonos,14584
+2022,Marzo,América,Computadoras,Laptop X,22651
+2022,Marzo,América,Computadoras,Laptop Y,22493
+2022,Marzo,América,Computadoras,Laptop Z,6903
+2022,Marzo,América,Smartphones,Phone A,12153
+2022,Marzo,América,Smartphones,Phone B,19135
+2022,Marzo,América,Smartphones,Phone C,17391
+2022,Marzo,América,Accesorios,Mouse,24347
+2022,Marzo,América,Accesorios,Teclado,22873
+2022,Marzo,América,Accesorios,Audífonos,10822
+2022,Marzo,Asia,Computadoras,Laptop X,6991
+2022,Marzo,Asia,Computadoras,Laptop Y,18587
+2022,Marzo,Asia,Computadoras,Laptop Z,7002
+2022,Marzo,Asia,Smartphones,Phone A,10965
+2022,Marzo,Asia,Smartphones,Phone B,22594
+2022,Marzo,Asia,Smartphones,Phone C,11521
+2022,Marzo,Asia,Accesorios,Mouse,12711
+2022,Marzo,Asia,Accesorios,Teclado,24339
+2022,Marzo,Asia,Accesorios,Audífonos,10071
+2022,Abril,Europa,Computadoras,Laptop X,12179
+2022,Abril,Europa,Computadoras,Laptop Y,12455
+2022,Abril,Europa,Computadoras,Laptop Z,17803
+2022,Abril,Europa,Smartphones,Phone A,9996
+2022,Abril,Europa,Smartphones,Phone B,5589
+2022,Abril,Europa,Smartphones,Phone C,23674
+2022,Abril,Europa,Accesorios,Mouse,22635
+2022,Abril,Europa,Accesorios,Teclado,12697
+2022,Abril,Europa,Accesorios,Audífonos,9274
+2022,Abril,América,Computadoras,Laptop X,24933
+2022,Abril,América,Computadoras,Laptop Y,15368
+2022,Abril,América,Computadoras,Laptop Z,21364
+2022,Abril,América,Smartphones,Phone A,21278
+2022,Abril,América,Smartphones,Phone B,7620
+2022,Abril,América,Smartphones,Phone C,18156
+2022,Abril,América,Accesorios,Mouse,18841
+2022,Abril,América,Accesorios,Teclado,7158
+2022,Abril,América,Accesorios,Audífonos,13780
+2022,Abril,Asia,Computadoras,Laptop X,21508
+2022,Abril,Asia,Computadoras,Laptop Y,15269
+2022,Abril,Asia,Computadoras,Laptop Z,14670
+2022,Abril,Asia,Smartphones,Phone A,14018
+2022,Abril,Asia,Smartphones,Phone B,22109
+2022,Abril,Asia,Smartphones,Phone C,12780
+2022,Abril,Asia,Accesorios,Mouse,16452
+2022,Abril,Asia,Accesorios,Teclado,16717
+2022,Abril,Asia,Accesorios,Audífonos,14417
+2022,Mayo,Europa,Computadoras,Laptop X,14061
+2022,Mayo,Europa,Computadoras,Laptop Y,18555
+2022,Mayo,Europa,Computadoras,Laptop Z,18528
+2022,Mayo,Europa,Smartphones,Phone A,21920
+2022,Mayo,Europa,Smartphones,Phone B,11302
+2022,Mayo,Europa,Smartphones,Phone C,13033
+2022,Mayo,Europa,Accesorios,Mouse,21634
+2022,Mayo,Europa,Accesorios,Teclado,19156
+2022,Mayo,Europa,Accesorios,Audífonos,20641
+2022,Mayo,América,Computadoras,Laptop X,17786
+2022,Mayo,América,Computadoras,Laptop Y,12136
+2022,Mayo,América,Computadoras,Laptop Z,16516
+2022,Mayo,América,Smartphones,Phone A,7140
+2022,Mayo,América,Smartphones,Phone B,5142
+2022,Mayo,América,Smartphones,Phone C,21626
+2022,Mayo,América,Accesorios,Mouse,19038
+2022,Mayo,América,Accesorios,Teclado,12205
+2022,Mayo,América,Accesorios,Audífonos,20527
+2022,Mayo,Asia,Computadoras,Laptop X,12940
+2022,Mayo,Asia,Computadoras,Laptop Y,8415
+2022,Mayo,Asia,Computadoras,Laptop Z,20451
+2022,Mayo,Asia,Smartphones,Phone A,19978
+2022,Mayo,Asia,Smartphones,Phone B,14936
+2022,Mayo,Asia,Smartphones,Phone C,20031
+2022,Mayo,Asia,Accesorios,Mouse,7973
+2022,Mayo,Asia,Accesorios,Teclado,15433
+2022,Mayo,Asia,Accesorios,Audífonos,18022
+2022,Junio,Europa,Computadoras,Laptop X,9957
+2022,Junio,Europa,Computadoras,Laptop Y,18152
+2022,Junio,Europa,Computadoras,Laptop Z,7982
+2022,Junio,Europa,Smartphones,Phone A,24167
+2022,Junio,Europa,Smartphones,Phone B,5798
+2022,Junio,Europa,Smartphones,Phone C,21349
+2022,Junio,Europa,Accesorios,Mouse,7997
+2022,Junio,Europa,Accesorios,Teclado,20482
+2022,Junio,Europa,Accesorios,Audífonos,13185
+2022,Junio,América,Computadoras,Laptop X,20499
+2022,Junio,América,Computadoras,Laptop Y,9643
+2022,Junio,América,Computadoras,Laptop Z,16498
+2022,Junio,América,Smartphones,Phone A,16601
+2022,Junio,América,Smartphones,Phone B,20116
+2022,Junio,América,Smartphones,Phone C,8646
+2022,Junio,América,Accesorios,Mouse,20605
+2022,Junio,América,Accesorios,Teclado,7270
+2022,Junio,América,Accesorios,Audífonos,14959
+2022,Junio,Asia,Computadoras,Laptop X,12273
+2022,Junio,Asia,Computadoras,Laptop Y,10329
+2022,Junio,Asia,Computadoras,Laptop Z,5831
+2022,Junio,Asia,Smartphones,Phone A,12398
+2022,Junio,Asia,Smartphones,Phone B,8421
+2022,Junio,Asia,Smartphones,Phone C,8497
+2022,Junio,Asia,Accesorios,Mouse,11484
+2022,Junio,Asia,Accesorios,Teclado,9495
+2022,Junio,Asia,Accesorios,Audífonos,6400
+2022,Julio,Europa,Computadoras,Laptop X,17550
+2022,Julio,Europa,Computadoras,Laptop Y,14427
+2022,Julio,Europa,Computadoras,Laptop Z,7704
+2022,Julio,Europa,Smartphones,Phone A,23193
+2022,Julio,Europa,Smartphones,Phone B,12659
+2022,Julio,Europa,Smartphones,Phone C,15466
+2022,Julio,Europa,Accesorios,Mouse,24346
+2022,Julio,Europa,Accesorios,Teclado,5983
+2022,Julio,Europa,Accesorios,Audífonos,17201
+2022,Julio,América,Computadoras,Laptop X,11113
+2022,Julio,América,Computadoras,Laptop Y,18616
+2022,Julio,América,Computadoras,Laptop Z,24298
+2022,Julio,América,Smartphones,Phone A,5531
+2022,Julio,América,Smartphones,Phone B,12403
+2022,Julio,América,Smartphones,Phone C,16436
+2022,Julio,América,Accesorios,Mouse,23322
+2022,Julio,América,Accesorios,Teclado,15790
+2022,Julio,América,Accesorios,Audífonos,6405
+2022,Julio,Asia,Computadoras,Laptop X,18992
+2022,Julio,Asia,Computadoras,Laptop Y,18564
+2022,Julio,Asia,Computadoras,Laptop Z,19483
+2022,Julio,Asia,Smartphones,Phone A,9972
+2022,Julio,Asia,Smartphones,Phone B,21150
+2022,Julio,Asia,Smartphones,Phone C,6284
+2022,Julio,Asia,Accesorios,Mouse,5586
+2022,Julio,Asia,Accesorios,Teclado,12838
+2022,Julio,Asia,Accesorios,Audífonos,22566
+2022,Agosto,Europa,Computadoras,Laptop X,14463
+2022,Agosto,Europa,Computadoras,Laptop Y,21519
+2022,Agosto,Europa,Computadoras,Laptop Z,18610
+2022,Agosto,Europa,Smartphones,Phone A,21621
+2022,Agosto,Europa,Smartphones,Phone B,7374
+2022,Agosto,Europa,Smartphones,Phone C,20837
+2022,Agosto,Europa,Accesorios,Mouse,20814
+2022,Agosto,Europa,Accesorios,Teclado,24930
+2022,Agosto,Europa,Accesorios,Audífonos,5492
+2022,Agosto,América,Computadoras,Laptop X,11425
+2022,Agosto,América,Computadoras,Laptop Y,17812
+2022,Agosto,América,Computadoras,Laptop Z,7104
+2022,Agosto,América,Smartphones,Phone A,13454
+2022,Agosto,América,Smartphones,Phone B,14751
+2022,Agosto,América,Smartphones,Phone C,8533
+2022,Agosto,América,Accesorios,Mouse,12359
+2022,Agosto,América,Accesorios,Teclado,15817
+2022,Agosto,América,Accesorios,Audífonos,16173
+2022,Agosto,Asia,Computadoras,Laptop X,18656
+2022,Agosto,Asia,Computadoras,Laptop Y,14215
+2022,Agosto,Asia,Computadoras,Laptop Z,11561
+2022,Agosto,Asia,Smartphones,Phone A,14664
+2022,Agosto,Asia,Smartphones,Phone B,22187
+2022,Agosto,Asia,Smartphones,Phone C,14283
+2022,Agosto,Asia,Accesorios,Mouse,7555
+2022,Agosto,Asia,Accesorios,Teclado,9021
+2022,Agosto,Asia,Accesorios,Audífonos,6458
+2022,Septiembre,Europa,Computadoras,Laptop X,14831
+2022,Septiembre,Europa,Computadoras,Laptop Y,11742
+2022,Septiembre,Europa,Computadoras,Laptop Z,13070
+2022,Septiembre,Europa,Smartphones,Phone A,5938
+2022,Septiembre,Europa,Smartphones,Phone B,15833
+2022,Septiembre,Europa,Smartphones,Phone C,19895
+2022,Septiembre,Europa,Accesorios,Mouse,23718
+2022,Septiembre,Europa,Accesorios,Teclado,14942
+2022,Septiembre,Europa,Accesorios,Audífonos,7364
+2022,Septiembre,América,Computadoras,Laptop X,19984
+2022,Septiembre,América,Computadoras,Laptop Y,5044
+2022,Septiembre,América,Computadoras,Laptop Z,20228
+2022,Septiembre,América,Smartphones,Phone A,22035
+2022,Septiembre,América,Smartphones,Phone B,6554
+2022,Septiembre,América,Smartphones,Phone C,19579
+2022,Septiembre,América,Accesorios,Mouse,16344
+2022,Septiembre,América,Accesorios,Teclado,11232
+2022,Septiembre,América,Accesorios,Audífonos,14973
+2022,Septiembre,Asia,Computadoras,Laptop X,7492
+2022,Septiembre,Asia,Computadoras,Laptop Y,12349
+2022,Septiembre,Asia,Computadoras,Laptop Z,13636
+2022,Septiembre,Asia,Smartphones,Phone A,16919
+2022,Septiembre,Asia,Smartphones,Phone B,15255
+2022,Septiembre,Asia,Smartphones,Phone C,8488
+2022,Septiembre,Asia,Accesorios,Mouse,21840
+2022,Septiembre,Asia,Accesorios,Teclado,19531
+2022,Septiembre,Asia,Accesorios,Audífonos,23065
+2022,Octubre,Europa,Computadoras,Laptop X,20465
+2022,Octubre,Europa,Computadoras,Laptop Y,5220
+2022,Octubre,Europa,Computadoras,Laptop Z,11168
+2022,Octubre,Europa,Smartphones,Phone A,23325
+2022,Octubre,Europa,Smartphones,Phone B,20220
+2022,Octubre,Europa,Smartphones,Phone C,16157
+2022,Octubre,Europa,Accesorios,Mouse,11579
+2022,Octubre,Europa,Accesorios,Teclado,24082
+2022,Octubre,Europa,Accesorios,Audífonos,24020
+2022,Octubre,América,Computadoras,Laptop X,15728
+2022,Octubre,América,Computadoras,Laptop Y,16647
+2022,Octubre,América,Computadoras,Laptop Z,11186
+2022,Octubre,América,Smartphones,Phone A,8838
+2022,Octubre,América,Smartphones,Phone B,12815
+2022,Octubre,América,Smartphones,Phone C,19381
+2022,Octubre,América,Accesorios,Mouse,10127
+2022,Octubre,América,Accesorios,Teclado,23733
+2022,Octubre,América,Accesorios,Audífonos,15246
+2022,Octubre,Asia,Computadoras,Laptop X,18177
+2022,Octubre,Asia,Computadoras,Laptop Y,17962
+2022,Octubre,Asia,Computadoras,Laptop Z,16066
+2022,Octubre,Asia,Smartphones,Phone A,20152
+2022,Octubre,Asia,Smartphones,Phone B,18413
+2022,Octubre,Asia,Smartphones,Phone C,22300
+2022,Octubre,Asia,Accesorios,Mouse,6970
+2022,Octubre,Asia,Accesorios,Teclado,13056
+2022,Octubre,Asia,Accesorios,Audífonos,16851
+2022,Noviembre,Europa,Computadoras,Laptop X,21843
+2022,Noviembre,Europa,Computadoras,Laptop Y,13937
+2022,Noviembre,Europa,Computadoras,Laptop Z,8970
+2022,Noviembre,Europa,Smartphones,Phone A,9914
+2022,Noviembre,Europa,Smartphones,Phone B,16002
+2022,Noviembre,Europa,Smartphones,Phone C,12285
+2022,Noviembre,Europa,Accesorios,Mouse,24622
+2022,Noviembre,Europa,Accesorios,Teclado,19645
+2022,Noviembre,Europa,Accesorios,Audífonos,24521
+2022,Noviembre,América,Computadoras,Laptop X,6876
+2022,Noviembre,América,Computadoras,Laptop Y,16402
+2022,Noviembre,América,Computadoras,Laptop Z,11530
+2022,Noviembre,América,Smartphones,Phone A,11715
+2022,Noviembre,América,Smartphones,Phone B,9055
+2022,Noviembre,América,Smartphones,Phone C,7637
+2022,Noviembre,América,Accesorios,Mouse,16222
+2022,Noviembre,América,Accesorios,Teclado,9654
+2022,Noviembre,América,Accesorios,Audífonos,6658
+2022,Noviembre,Asia,Computadoras,Laptop X,19571
+2022,Noviembre,Asia,Computadoras,Laptop Y,22641
+2022,Noviembre,Asia,Computadoras,Laptop Z,9204
+2022,Noviembre,Asia,Smartphones,Phone A,10623
+2022,Noviembre,Asia,Smartphones,Phone B,7470
+2022,Noviembre,Asia,Smartphones,Phone C,17236
+2022,Noviembre,Asia,Accesorios,Mouse,16530
+2022,Noviembre,Asia,Accesorios,Teclado,24908
+2022,Noviembre,Asia,Accesorios,Audífonos,10629
+2022,Diciembre,Europa,Computadoras,Laptop X,20653
+2022,Diciembre,Europa,Computadoras,Laptop Y,14309
+2022,Diciembre,Europa,Computadoras,Laptop Z,20296
+2022,Diciembre,Europa,Smartphones,Phone A,19362
+2022,Diciembre,Europa,Smartphones,Phone B,19947
+2022,Diciembre,Europa,Smartphones,Phone C,9842
+2022,Diciembre,Europa,Accesorios,Mouse,7032
+2022,Diciembre,Europa,Accesorios,Teclado,12876
+2022,Diciembre,Europa,Accesorios,Audífonos,8345
+2022,Diciembre,América,Computadoras,Laptop X,24248
+2022,Diciembre,América,Computadoras,Laptop Y,11853
+2022,Diciembre,América,Computadoras,Laptop Z,22899
+2022,Diciembre,América,Smartphones,Phone A,16798
+2022,Diciembre,América,Smartphones,Phone B,13622
+2022,Diciembre,América,Smartphones,Phone C,14607
+2022,Diciembre,América,Accesorios,Mouse,9405
+2022,Diciembre,América,Accesorios,Teclado,17015
+2022,Diciembre,América,Accesorios,Audífonos,17364
+2022,Diciembre,Asia,Computadoras,Laptop X,7674
+2022,Diciembre,Asia,Computadoras,Laptop Y,5628
+2022,Diciembre,Asia,Computadoras,Laptop Z,16280
+2022,Diciembre,Asia,Smartphones,Phone A,12244
+2022,Diciembre,Asia,Smartphones,Phone B,8383
+2022,Diciembre,Asia,Smartphones,Phone C,18711
+2022,Diciembre,Asia,Accesorios,Mouse,5940
+2022,Diciembre,Asia,Accesorios,Teclado,23770
+2022,Diciembre,Asia,Accesorios,Audífonos,6517
+2023,Enero,Europa,Computadoras,Laptop X,7577
+2023,Enero,Europa,Computadoras,Laptop Y,13204
+2023,Enero,Europa,Computadoras,Laptop Z,5257
+2023,Enero,Europa,Smartphones,Phone A,22649
+2023,Enero,Europa,Smartphones,Phone B,7850
+2023,Enero,Europa,Smartphones,Phone C,11209
+2023,Enero,Europa,Accesorios,Mouse,20265
+2023,Enero,Europa,Accesorios,Teclado,19891
+2023,Enero,Europa,Accesorios,Audífonos,20890
+2023,Enero,América,Computadoras,Laptop X,7954
+2023,Enero,América,Computadoras,Laptop Y,19907
+2023,Enero,América,Computadoras,Laptop Z,20707
+2023,Enero,América,Smartphones,Phone A,22179
+2023,Enero,América,Smartphones,Phone B,10021
+2023,Enero,América,Smartphones,Phone C,24310
+2023,Enero,América,Accesorios,Mouse,5909
+2023,Enero,América,Accesorios,Teclado,17819
+2023,Enero,América,Accesorios,Audífonos,23309
+2023,Enero,Asia,Computadoras,Laptop X,13624
+2023,Enero,Asia,Computadoras,Laptop Y,21453
+2023,Enero,Asia,Computadoras,Laptop Z,19617
+2023,Enero,Asia,Smartphones,Phone A,18986
+2023,Enero,Asia,Smartphones,Phone B,7794
+2023,Enero,Asia,Smartphones,Phone C,18772
+2023,Enero,Asia,Accesorios,Mouse,10169
+2023,Enero,Asia,Accesorios,Teclado,5218
+2023,Enero,Asia,Accesorios,Audífonos,24149
+2023,Febrero,Europa,Computadoras,Laptop X,18378
+2023,Febrero,Europa,Computadoras,Laptop Y,10715
+2023,Febrero,Europa,Computadoras,Laptop Z,9532
+2023,Febrero,Europa,Smartphones,Phone A,18063
+2023,Febrero,Europa,Smartphones,Phone B,18579
+2023,Febrero,Europa,Smartphones,Phone C,16628
+2023,Febrero,Europa,Accesorios,Mouse,12976
+2023,Febrero,Europa,Accesorios,Teclado,6027
+2023,Febrero,Europa,Accesorios,Audífonos,24810
+2023,Febrero,América,Computadoras,Laptop X,21446
+2023,Febrero,América,Computadoras,Laptop Y,15518
+2023,Febrero,América,Computadoras,Laptop Z,18041
+2023,Febrero,América,Smartphones,Phone A,23976
+2023,Febrero,América,Smartphones,Phone B,10675
+2023,Febrero,América,Smartphones,Phone C,22705
+2023,Febrero,América,Accesorios,Mouse,19246
+2023,Febrero,América,Accesorios,Teclado,6909
+2023,Febrero,América,Accesorios,Audífonos,14306
+2023,Febrero,Asia,Computadoras,Laptop X,11088
+2023,Febrero,Asia,Computadoras,Laptop Y,13938
+2023,Febrero,Asia,Computadoras,Laptop Z,5343
+2023,Febrero,Asia,Smartphones,Phone A,16976
+2023,Febrero,Asia,Smartphones,Phone B,13699
+2023,Febrero,Asia,Smartphones,Phone C,20140
+2023,Febrero,Asia,Accesorios,Mouse,19086
+2023,Febrero,Asia,Accesorios,Teclado,11183
+2023,Febrero,Asia,Accesorios,Audífonos,14292
+2023,Marzo,Europa,Computadoras,Laptop X,22758
+2023,Marzo,Europa,Computadoras,Laptop Y,6156
+2023,Marzo,Europa,Computadoras,Laptop Z,5563
+2023,Marzo,Europa,Smartphones,Phone A,24942
+2023,Marzo,Europa,Smartphones,Phone B,18137
+2023,Marzo,Europa,Smartphones,Phone C,9022
+2023,Marzo,Europa,Accesorios,Mouse,21086
+2023,Marzo,Europa,Accesorios,Teclado,22040
+2023,Marzo,Europa,Accesorios,Audífonos,22718
+2023,Marzo,América,Computadoras,Laptop X,12920
+2023,Marzo,América,Computadoras,Laptop Y,24407
+2023,Marzo,América,Computadoras,Laptop Z,17963
+2023,Marzo,América,Smartphones,Phone A,8251
+2023,Marzo,América,Smartphones,Phone B,20654
+2023,Marzo,América,Smartphones,Phone C,20992
+2023,Marzo,América,Accesorios,Mouse,9411
+2023,Marzo,América,Accesorios,Teclado,15847
+2023,Marzo,América,Accesorios,Audífonos,19051
+2023,Marzo,Asia,Computadoras,Laptop X,14618
+2023,Marzo,Asia,Computadoras,Laptop Y,16636
+2023,Marzo,Asia,Computadoras,Laptop Z,22019
+2023,Marzo,Asia,Smartphones,Phone A,24589
+2023,Marzo,Asia,Smartphones,Phone B,16539
+2023,Marzo,Asia,Smartphones,Phone C,11899
+2023,Marzo,Asia,Accesorios,Mouse,19801
+2023,Marzo,Asia,Accesorios,Teclado,6874
+2023,Marzo,Asia,Accesorios,Audífonos,20515
+2023,Abril,Europa,Computadoras,Laptop X,9399
+2023,Abril,Europa,Computadoras,Laptop Y,9637
+2023,Abril,Europa,Computadoras,Laptop Z,6749
+2023,Abril,Europa,Smartphones,Phone A,19725
+2023,Abril,Europa,Smartphones,Phone B,19529
+2023,Abril,Europa,Smartphones,Phone C,6672
+2023,Abril,Europa,Accesorios,Mouse,12252
+2023,Abril,Europa,Accesorios,Teclado,16781
+2023,Abril,Europa,Accesorios,Audífonos,5060
+2023,Abril,América,Computadoras,Laptop X,24948
+2023,Abril,América,Computadoras,Laptop Y,5123
+2023,Abril,América,Computadoras,Laptop Z,22938
+2023,Abril,América,Smartphones,Phone A,16515
+2023,Abril,América,Smartphones,Phone B,23715
+2023,Abril,América,Smartphones,Phone C,6280
+2023,Abril,América,Accesorios,Mouse,15308
+2023,Abril,América,Accesorios,Teclado,12960
+2023,Abril,América,Accesorios,Audífonos,8604
+2023,Abril,Asia,Computadoras,Laptop X,9001
+2023,Abril,Asia,Computadoras,Laptop Y,17092
+2023,Abril,Asia,Computadoras,Laptop Z,7014
+2023,Abril,Asia,Smartphones,Phone A,19335
+2023,Abril,Asia,Smartphones,Phone B,8378
+2023,Abril,Asia,Smartphones,Phone C,22641
+2023,Abril,Asia,Accesorios,Mouse,5322
+2023,Abril,Asia,Accesorios,Teclado,24487
+2023,Abril,Asia,Accesorios,Audífonos,10921
+2023,Mayo,Europa,Computadoras,Laptop X,11618
+2023,Mayo,Europa,Computadoras,Laptop Y,22473
+2023,Mayo,Europa,Computadoras,Laptop Z,11786
+2023,Mayo,Europa,Smartphones,Phone A,19646
+2023,Mayo,Europa,Smartphones,Phone B,17188
+2023,Mayo,Europa,Smartphones,Phone C,18002
+2023,Mayo,Europa,Accesorios,Mouse,18543
+2023,Mayo,Europa,Accesorios,Teclado,5301
+2023,Mayo,Europa,Accesorios,Audífonos,20795
+2023,Mayo,América,Computadoras,Laptop X,9310
+2023,Mayo,América,Computadoras,Laptop Y,5241
+2023,Mayo,América,Computadoras,Laptop Z,18680
+2023,Mayo,América,Smartphones,Phone A,23220
+2023,Mayo,América,Smartphones,Phone B,5574
+2023,Mayo,América,Smartphones,Phone C,12149
+2023,Mayo,América,Accesorios,Mouse,20158
+2023,Mayo,América,Accesorios,Teclado,12042
+2023,Mayo,América,Accesorios,Audífonos,14534
+2023,Mayo,Asia,Computadoras,Laptop X,20122
+2023,Mayo,Asia,Computadoras,Laptop Y,16730
+2023,Mayo,Asia,Computadoras,Laptop Z,18851
+2023,Mayo,Asia,Smartphones,Phone A,7568
+2023,Mayo,Asia,Smartphones,Phone B,19431
+2023,Mayo,Asia,Smartphones,Phone C,8029
+2023,Mayo,Asia,Accesorios,Mouse,13372
+2023,Mayo,Asia,Accesorios,Teclado,10038
+2023,Mayo,Asia,Accesorios,Audífonos,21391
+2023,Junio,Europa,Computadoras,Laptop X,19906
+2023,Junio,Europa,Computadoras,Laptop Y,7119
+2023,Junio,Europa,Computadoras,Laptop Z,21316
+2023,Junio,Europa,Smartphones,Phone A,22497
+2023,Junio,Europa,Smartphones,Phone B,18650
+2023,Junio,Europa,Smartphones,Phone C,12572
+2023,Junio,Europa,Accesorios,Mouse,19352
+2023,Junio,Europa,Accesorios,Teclado,5879
+2023,Junio,Europa,Accesorios,Audífonos,12011
+2023,Junio,América,Computadoras,Laptop X,24445
+2023,Junio,América,Computadoras,Laptop Y,9933
+2023,Junio,América,Computadoras,Laptop Z,8903
+2023,Junio,América,Smartphones,Phone A,8358
+2023,Junio,América,Smartphones,Phone B,23955
+2023,Junio,América,Smartphones,Phone C,21675
+2023,Junio,América,Accesorios,Mouse,14138
+2023,Junio,América,Accesorios,Teclado,24531
+2023,Junio,América,Accesorios,Audífonos,9291
+2023,Junio,Asia,Computadoras,Laptop X,6185
+2023,Junio,Asia,Computadoras,Laptop Y,19909
+2023,Junio,Asia,Computadoras,Laptop Z,11072
+2023,Junio,Asia,Smartphones,Phone A,20167
+2023,Junio,Asia,Smartphones,Phone B,13846
+2023,Junio,Asia,Smartphones,Phone C,24892
+2023,Junio,Asia,Accesorios,Mouse,9348
+2023,Junio,Asia,Accesorios,Teclado,13911
+2023,Junio,Asia,Accesorios,Audífonos,5387
+2023,Julio,Europa,Computadoras,Laptop X,21429
+2023,Julio,Europa,Computadoras,Laptop Y,21859
+2023,Julio,Europa,Computadoras,Laptop Z,10186
+2023,Julio,Europa,Smartphones,Phone A,9645
+2023,Julio,Europa,Smartphones,Phone B,16168
+2023,Julio,Europa,Smartphones,Phone C,6076
+2023,Julio,Europa,Accesorios,Mouse,12284
+2023,Julio,Europa,Accesorios,Teclado,20564
+2023,Julio,Europa,Accesorios,Audífonos,10492
+2023,Julio,América,Computadoras,Laptop X,11192
+2023,Julio,América,Computadoras,Laptop Y,22269
+2023,Julio,América,Computadoras,Laptop Z,16626
+2023,Julio,América,Smartphones,Phone A,10903
+2023,Julio,América,Smartphones,Phone B,20731
+2023,Julio,América,Smartphones,Phone C,16119
+2023,Julio,América,Accesorios,Mouse,5931
+2023,Julio,América,Accesorios,Teclado,17990
+2023,Julio,América,Accesorios,Audífonos,15543
+2023,Julio,Asia,Computadoras,Laptop X,5009
+2023,Julio,Asia,Computadoras,Laptop Y,7550
+2023,Julio,Asia,Computadoras,Laptop Z,6988
+2023,Julio,Asia,Smartphones,Phone A,22999
+2023,Julio,Asia,Smartphones,Phone B,10229
+2023,Julio,Asia,Smartphones,Phone C,9561
+2023,Julio,Asia,Accesorios,Mouse,15618
+2023,Julio,Asia,Accesorios,Teclado,24696
+2023,Julio,Asia,Accesorios,Audífonos,18598
+2023,Agosto,Europa,Computadoras,Laptop X,6376
+2023,Agosto,Europa,Computadoras,Laptop Y,13771
+2023,Agosto,Europa,Computadoras,Laptop Z,8688
+2023,Agosto,Europa,Smartphones,Phone A,11076
+2023,Agosto,Europa,Smartphones,Phone B,5727
+2023,Agosto,Europa,Smartphones,Phone C,6185
+2023,Agosto,Europa,Accesorios,Mouse,13379
+2023,Agosto,Europa,Accesorios,Teclado,8057
+2023,Agosto,Europa,Accesorios,Audífonos,7679
+2023,Agosto,América,Computadoras,Laptop X,21382
+2023,Agosto,América,Computadoras,Laptop Y,23388
+2023,Agosto,América,Computadoras,Laptop Z,21022
+2023,Agosto,América,Smartphones,Phone A,20921
+2023,Agosto,América,Smartphones,Phone B,8206
+2023,Agosto,América,Smartphones,Phone C,7675
+2023,Agosto,América,Accesorios,Mouse,9216
+2023,Agosto,América,Accesorios,Teclado,24999
+2023,Agosto,América,Accesorios,Audífonos,22739
+2023,Agosto,Asia,Computadoras,Laptop X,10879
+2023,Agosto,Asia,Computadoras,Laptop Y,6573
+2023,Agosto,Asia,Computadoras,Laptop Z,17880
+2023,Agosto,Asia,Smartphones,Phone A,19486
+2023,Agosto,Asia,Smartphones,Phone B,23051
+2023,Agosto,Asia,Smartphones,Phone C,9104
+2023,Agosto,Asia,Accesorios,Mouse,23621
+2023,Agosto,Asia,Accesorios,Teclado,5125
+2023,Agosto,Asia,Accesorios,Audífonos,23046
+2023,Septiembre,Europa,Computadoras,Laptop X,11983
+2023,Septiembre,Europa,Computadoras,Laptop Y,13761
+2023,Septiembre,Europa,Computadoras,Laptop Z,21247
+2023,Septiembre,Europa,Smartphones,Phone A,20164
+2023,Septiembre,Europa,Smartphones,Phone B,24018
+2023,Septiembre,Europa,Smartphones,Phone C,23418
+2023,Septiembre,Europa,Accesorios,Mouse,19220
+2023,Septiembre,Europa,Accesorios,Teclado,12714
+2023,Septiembre,Europa,Accesorios,Audífonos,6300
+2023,Septiembre,América,Computadoras,Laptop X,21563
+2023,Septiembre,América,Computadoras,Laptop Y,8161
+2023,Septiembre,América,Computadoras,Laptop Z,23451
+2023,Septiembre,América,Smartphones,Phone A,8160
+2023,Septiembre,América,Smartphones,Phone B,13633
+2023,Septiembre,América,Smartphones,Phone C,12984
+2023,Septiembre,América,Accesorios,Mouse,24003
+2023,Septiembre,América,Accesorios,Teclado,5130
+2023,Septiembre,América,Accesorios,Audífonos,20243
+2023,Septiembre,Asia,Computadoras,Laptop X,19000
+2023,Septiembre,Asia,Computadoras,Laptop Y,11517
+2023,Septiembre,Asia,Computadoras,Laptop Z,17362
+2023,Septiembre,Asia,Smartphones,Phone A,10540
+2023,Septiembre,Asia,Smartphones,Phone B,13122
+2023,Septiembre,Asia,Smartphones,Phone C,10590
+2023,Septiembre,Asia,Accesorios,Mouse,11848
+2023,Septiembre,Asia,Accesorios,Teclado,22720
+2023,Septiembre,Asia,Accesorios,Audífonos,15058
+2023,Octubre,Europa,Computadoras,Laptop X,12751
+2023,Octubre,Europa,Computadoras,Laptop Y,23848
+2023,Octubre,Europa,Computadoras,Laptop Z,22891
+2023,Octubre,Europa,Smartphones,Phone A,15350
+2023,Octubre,Europa,Smartphones,Phone B,11574
+2023,Octubre,Europa,Smartphones,Phone C,16371
+2023,Octubre,Europa,Accesorios,Mouse,19784
+2023,Octubre,Europa,Accesorios,Teclado,12091
+2023,Octubre,Europa,Accesorios,Audífonos,17434
+2023,Octubre,América,Computadoras,Laptop X,14201
+2023,Octubre,América,Computadoras,Laptop Y,19891
+2023,Octubre,América,Computadoras,Laptop Z,14012
+2023,Octubre,América,Smartphones,Phone A,21212
+2023,Octubre,América,Smartphones,Phone B,17761
+2023,Octubre,América,Smartphones,Phone C,21848
+2023,Octubre,América,Accesorios,Mouse,23417
+2023,Octubre,América,Accesorios,Teclado,6904
+2023,Octubre,América,Accesorios,Audífonos,19746
+2023,Octubre,Asia,Computadoras,Laptop X,20061
+2023,Octubre,Asia,Computadoras,Laptop Y,15669
+2023,Octubre,Asia,Computadoras,Laptop Z,18950
+2023,Octubre,Asia,Smartphones,Phone A,13639
+2023,Octubre,Asia,Smartphones,Phone B,13869
+2023,Octubre,Asia,Smartphones,Phone C,14804
+2023,Octubre,Asia,Accesorios,Mouse,12933
+2023,Octubre,Asia,Accesorios,Teclado,23824
+2023,Octubre,Asia,Accesorios,Audífonos,6228
+2023,Noviembre,Europa,Computadoras,Laptop X,19534
+2023,Noviembre,Europa,Computadoras,Laptop Y,24412
+2023,Noviembre,Europa,Computadoras,Laptop Z,24227
+2023,Noviembre,Europa,Smartphones,Phone A,16895
+2023,Noviembre,Europa,Smartphones,Phone B,15807
+2023,Noviembre,Europa,Smartphones,Phone C,10187
+2023,Noviembre,Europa,Accesorios,Mouse,17500
+2023,Noviembre,Europa,Accesorios,Teclado,22944
+2023,Noviembre,Europa,Accesorios,Audífonos,14787
+2023,Noviembre,América,Computadoras,Laptop X,21710
+2023,Noviembre,América,Computadoras,Laptop Y,16838
+2023,Noviembre,América,Computadoras,Laptop Z,10939
+2023,Noviembre,América,Smartphones,Phone A,10050
+2023,Noviembre,América,Smartphones,Phone B,7376
+2023,Noviembre,América,Smartphones,Phone C,13095
+2023,Noviembre,América,Accesorios,Mouse,13263
+2023,Noviembre,América,Accesorios,Teclado,24511
+2023,Noviembre,América,Accesorios,Audífonos,19051
+2023,Noviembre,Asia,Computadoras,Laptop X,24421
+2023,Noviembre,Asia,Computadoras,Laptop Y,16810
+2023,Noviembre,Asia,Computadoras,Laptop Z,16794
+2023,Noviembre,Asia,Smartphones,Phone A,18106
+2023,Noviembre,Asia,Smartphones,Phone B,5209
+2023,Noviembre,Asia,Smartphones,Phone C,18116
+2023,Noviembre,Asia,Accesorios,Mouse,17743
+2023,Noviembre,Asia,Accesorios,Teclado,7773
+2023,Noviembre,Asia,Accesorios,Audífonos,7847
+2023,Diciembre,Europa,Computadoras,Laptop X,9584
+2023,Diciembre,Europa,Computadoras,Laptop Y,6509
+2023,Diciembre,Europa,Computadoras,Laptop Z,5533
+2023,Diciembre,Europa,Smartphones,Phone A,8337
+2023,Diciembre,Europa,Smartphones,Phone B,14868
+2023,Diciembre,Europa,Smartphones,Phone C,7076
+2023,Diciembre,Europa,Accesorios,Mouse,8732
+2023,Diciembre,Europa,Accesorios,Teclado,23188
+2023,Diciembre,Europa,Accesorios,Audífonos,13974
+2023,Diciembre,América,Computadoras,Laptop X,19187
+2023,Diciembre,América,Computadoras,Laptop Y,17396
+2023,Diciembre,América,Computadoras,Laptop Z,13684
+2023,Diciembre,América,Smartphones,Phone A,5818
+2023,Diciembre,América,Smartphones,Phone B,7095
+2023,Diciembre,América,Smartphones,Phone C,15802
+2023,Diciembre,América,Accesorios,Mouse,14293
+2023,Diciembre,América,Accesorios,Teclado,5628
+2023,Diciembre,América,Accesorios,Audífonos,11365
+2023,Diciembre,Asia,Computadoras,Laptop X,10306
+2023,Diciembre,Asia,Computadoras,Laptop Y,10921
+2023,Diciembre,Asia,Computadoras,Laptop Z,19137
+2023,Diciembre,Asia,Smartphones,Phone A,8584
+2023,Diciembre,Asia,Smartphones,Phone B,18488
+2023,Diciembre,Asia,Smartphones,Phone C,7443
+2023,Diciembre,Asia,Accesorios,Mouse,19113
+2023,Diciembre,Asia,Accesorios,Teclado,15228
+2023,Diciembre,Asia,Accesorios,Audífonos,10598
